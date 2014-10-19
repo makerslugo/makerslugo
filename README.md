@@ -1,4 +1,7 @@
-labs.makerslugo.org
-===================
+# labs.makerslugo.org
 
-Espacio para albergar nuestro código, pruebas y juguetes.
+Espazo para probas, código, exemplos, etc.
+
+## conceptos de electricidade
+
+* [Divisor de tensión interactivo](http://nosolosw.github.io/voltage-divider/index.gl.html)
